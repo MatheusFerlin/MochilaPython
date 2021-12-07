@@ -1,5 +1,5 @@
 identificador;peso;valor
-1;2;50
+1;23;500
 2;2;45
 3;3;50
 4;5;20

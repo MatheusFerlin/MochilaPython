@@ -11,24 +11,7 @@ number_generations = 50
 unic = True
 
 objects = pd.read_csv('objetos.txt', sep=';')
-nomes = ["Pedivela Sram",
-"Pedivela Shimano",
-"Pedivela CrankArm",
-"Pedivela Genérico",
-"Pedivela Rotor",
-"Pedal Shimano",
-"Pedal look",
-"Pedal Sram",
-"Pedal Speed",
-"Pedal WellGo",
-"Bicicleta infantil",
-"Scott Spark",
-"Black Orange Nitro",
-"Iridium Expert",
-"Expert Carbon",
-"Criterium Race",
-"Criterium",
-"Oggi Velloce",
+nomes = ["Pedivela Sram",sddfasfasddfasdfasdasd
 "OX Glide",
 "Scott Foil",
 "F12",
